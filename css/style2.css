@@ -1,0 +1,33 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  color: darkgreen;
+  background-color: whitesmoke;
+  border-style: solid;
+  border-color: darkgreen;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  color: darkgreen;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  border: 3px solid darkgreen;
+  background-color: whitesmoke;
+}
+
+li {
+  color: darkgreen;
+
+}
+
+table,
+th,
+td {
+  border: 2px solid darkgreen;
+  background-color: whitesmoke;
+  color: darkgreen;
+}

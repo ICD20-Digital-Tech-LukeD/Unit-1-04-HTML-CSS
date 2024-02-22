@@ -1,0 +1,32 @@
+/* Created by: Luke Di Bert
+* Created on: Feb 21 2022
+* This CSS file defines the style for index.html
+* ICD2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color: skyblue;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+  border-style: solid;
+  border-color: navy;
+  padding: 20px;
+  background-color: lightblue;
+
+  font-weight: bold;
+  font-size: 30px;
+}
+
+h2 {
+  color: blueviolet;
+  text-align: center;
+  border-style: solid;
+  border-color: blueviolet;
+  background-color: lightblue;
+  font-weight: bold;
+  font-size: 30px;
+
+}
